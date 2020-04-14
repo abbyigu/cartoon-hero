@@ -3,19 +3,22 @@ html,body{
 	margin: 0;
 }
 header{
-	background-color: #8fe8f2;
-	padding: 30px;
+	padding: 50px;
 	text-align: center;
+	background-image: url(https://i.pinimg.com/originals/e4/d8/eb/e4d8eb9d1d0f659581709cc8a369bc70.gif);
+	background-repeat: repeat-x;
 }
 
 h1{
 	font-size: 70px;
 	color: white;
+	text-shadow: 0 4px 20px gray;
 }
 header img{
 	border-radius: 150px;
 	width: 200px;
 	border:10px solid #ffffff;
+	box-shadow: 0 10px 20px gray;
 }
 .content{
 	max-width: 900px;
@@ -38,7 +41,7 @@ ul{
 	margin:0;
 }
 a{
-	color: purple;
+	color: violet;
 	text-decoration: none;
 	text-align: center;
 }
