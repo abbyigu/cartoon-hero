@@ -45,7 +45,13 @@ a{
 	text-decoration: none;
 	text-align: center;
 }
-
+iframe{
+	max-width: 100%;
+	width: 700px;
+	height: 350px
+	padding: 60;
+	margin: auto;
+}
 
 footer{
 	margin-top: 40px;
